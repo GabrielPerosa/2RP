@@ -1,0 +1,3 @@
+# Relatório referente aos passos dentro do script
+
+### O objetivo desta tarefa foi integrar dois datasets e criar uma tabela consolidada com nove colunas. O primeiro passo foi entender detalhadamente quais dados cada coluna deveria apresentar. A partir dessa compreensão, comecei a desenvolver as primeiras consultas. Inicialmente, cada consulta foi projetada para adicionar apenas uma coluna de cada vez. Dessa forma, fui avançando gradualmente, garantindo que cada nova coluna fosse corretamente incorporada e formatada conforme necessário. Esse processo contínuo de iteração e verificação me permitiu construir a tabela final, incluindo todas as colunas e formatações requeridas.
